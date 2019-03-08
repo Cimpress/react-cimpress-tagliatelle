@@ -1,0 +1,20 @@
+.ctag-value-edit-input {
+    padding: 5px;
+    min-width: 300px;
+}
+
+.ctag-value-edit-input:focus {
+    outline-width: 1px;
+}
+
+.ctag-edit-icon-container {
+    padding-top: 2px;
+}
+
+.ctag-action-icon {
+    cursor: pointer;
+}
+
+.ctag-action-icon svg:hover {
+    fill: #41B5DC !important;
+}
