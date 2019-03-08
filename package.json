@@ -1,6 +1,6 @@
 {
   "name": "react-cimpress-tagliatelle",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "description": "A set of simple components that interact with Cimpress Tagliatelle service",
   "main": "./lib/index.js",
   "scripts": {
