@@ -1,8 +1,7 @@
 import Tagliatelle from 'cimpress-tagliatelle';
-import {debug} from '../../../utils/helpers';
 
 const client = new Tagliatelle({
-    debugFunction: debug,
+    debugFunction: () => {},
 });
 
 const updateTag = (accessToken, tagId, tagResourceUrl, tagKey, editValue) => {

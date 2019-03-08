@@ -148,7 +148,7 @@ TagLabel.propTypes = {
 };
 
 TagLabel.defaultProps = {
-    inputClassName: 'ctag--value-edit-input',
+    inputClassName: 'ctag-value-edit-input',
     actionButtonContainerClassName: 'ctag-edit-icon-container',
     iconClassName: 'ctag-action-icon',
     iconCancelName: 'remove-circle-1-l',
