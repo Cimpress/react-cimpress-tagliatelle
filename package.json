@@ -1,6 +1,6 @@
 {
   "name": "react-cimpress-tagliatelle",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A set of simple components that interact with Cimpress Tagliatelle service",
   "main": "./lib/index.js",
   "scripts": {
@@ -62,6 +62,6 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.1.2",
-    "cimpress-tagliatelle": "^0.3.1"
+    "cimpress-tagliatelle": "^0.3.2"
   }
 }
