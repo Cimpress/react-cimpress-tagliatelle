@@ -1,6 +1,6 @@
 {
   "name": "react-cimpress-tagliatelle",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A set of simple components that interact with Cimpress Tagliatelle service",
   "main": "./lib/index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0",
     "react-dom": "^15.0.0 || ^16.0.0",
-    "@cimpress/react-components": "^5.0.0 || ^6.0.0"
+    "@cimpress/react-components": ">=4 <11"
   },
   "devDependencies": {
     "@babel/cli": "7.0.0",
